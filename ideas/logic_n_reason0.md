@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-The **CX Engage Agent** system represents a sophisticated multi-agent AI orchestration platform that performs intelligent research and generates comprehensive reports by leveraging multiple data sources and reasoning agents. The "magic of reason" emerges from a carefully orchestrated dance between multiple AI agents, each specialized for different tasks, working together under the coordination of a research orchestrator.
+The **AdaptIQ Agent** system represents a sophisticated multi-agent AI orchestration platform that performs intelligent research and generates comprehensive reports by leveraging multiple data sources and reasoning agents. The "magic of reason" emerges from a carefully orchestrated dance between multiple AI agents, each specialized for different tasks, working together under the coordination of a research orchestrator.
 
 The system transforms user queries into actionable intelligence through a multi-phase process: **planning**, **research orchestration**, **iterative knowledge gathering**, and **synthesis**.
 
@@ -374,4 +374,4 @@ The beauty of this architecture lies in its emergent intelligence: while each co
 ---
 
 *Report generated on June 28, 2025*
-*Analysis based on CX Engage Agent codebase*
+*Analysis based on AdaptIQ Agent codebase*

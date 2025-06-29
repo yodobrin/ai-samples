@@ -1,6 +1,6 @@
-# Migration Strategy: Python to .NET for the CX Engage Agent
+# Migration Strategy: Python to .NET for the AdaptIQ Agent
 
-This document outlines a high-level approach to migrate the CX Engage Agent codebase from Python to .NET. It focuses on concepts, planning artifacts (epics, user stories, features), and guidance—rather than providing full .NET code. It also evaluates SDK options (low-level vs. frameworks like Semantic Kernel).
+This document outlines a high-level approach to migrate the AdaptIQ Agent codebase from Python to .NET. It focuses on concepts, planning artifacts (epics, user stories, features), and guidance—rather than providing full .NET code. It also evaluates SDK options (low-level vs. frameworks like Semantic Kernel).
 
 ---
 
